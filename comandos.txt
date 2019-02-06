@@ -1,0 +1,11 @@
+echo "# java" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git remoto agregar origen https://github.com/ibelsy/java.git
+git push -u master de origen
+
+---------------------------------------------------------------------
+git add .
+git commit -m "mensaje que quiero imprimir"
+git push -u origin master
